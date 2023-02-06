@@ -1,0 +1,62 @@
+.google-autofill-box {
+  box-sizing: border-box;
+  border: 1px solid transparent;
+  width: 430px;
+  height: 32px;
+  padding: 0 120px;
+  border-radius: 30px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  font-size: 20px;
+  outline: none;
+  text-overflow: ellipses;
+  position: absolute;
+  left: 35%;
+  margin-left: 120px;
+}
+
+.location-errorMsg {
+  color: red;
+}
+
+.location-pagination {
+  padding-left: 1400px;
+  padding-top: 50px;
+}
+
+.location-header {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.location-card {
+  width: 18rem;
+  padding: 10px;
+  margin: 1rem;
+}
+
+.location-logo {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+  width: 45%;
+  padding-left: 100px;
+}
+
+.location-card-parent {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+  padding-top: 100px;
+  width: max-content;
+}
+
+.location-search-bar {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  padding-left: 250px;
+}
+
+.location-container {
+  padding-left: 300px;
+}
